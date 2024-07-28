@@ -1,1 +1,1 @@
-# Student-Management-System-GIET-
+# Student-Management-System-GIET
