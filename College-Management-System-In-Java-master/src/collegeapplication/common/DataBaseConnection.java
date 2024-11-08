@@ -1,20 +1,63 @@
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
+package collegeapplication.common;
+
+import java.sql.*;
+
+
 
 public class DataBaseConnection {
-    public static Connection getConnection() {
-        String url = "jdbc:mysql://localhost:3306/Collegedata?useSSL=false&allowPublicKeyRetrieval=true";
-        String user = "root";
-        String password = "";
+	
+	static Connection con=null;
+	static final String url="jdbc:mysql://localhost:3306/collegedata";
+	static final String uname="root";
+	static final String password="";
+	
+	
+	public static Connection getConnection()
+	{
+		if(con!=null)
+		{
+			return con;
+		}
+		else
+		{
+			try
+			{
+				
+				Class.forName("com.mysql.jdbc.Driver");
+				con=DriverManager.getConnection(url,uname,password);
+				return con;
+			}
+			catch(Exception exp)
+			{
+				exp.printStackTrace();
+				return con;
+			}
+		}
+	}
+	public static boolean checkconnection() 
+	{
+		
+		try
+		{
+			
+			Class.forName("com.mysql.jdbc.Driver");
+			con=DriverManager.getConnection(url,uname,password);
+			return true;
+		}
+		catch(Exception exp)
+		{
+			exp.printStackTrace();
+			return false;
+		}
+	}
+	public static void  closeConnection() 
+	{
+		try {
+			con.close();
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
 
-        try {
-            // For MySQL Connector 9.x
-            Class.forName("com.mysql.cj.jdbc.Driver");
-            return DriverManager.getConnection(url, user, password);
-        } catch (ClassNotFoundException | SQLException e) {
-            e.printStackTrace();
-            return null;
-        }
-    }
 }
