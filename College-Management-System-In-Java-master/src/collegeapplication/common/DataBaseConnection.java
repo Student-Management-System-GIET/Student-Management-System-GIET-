@@ -7,7 +7,7 @@ import java.sql.*;
 public class DataBaseConnection {
 	
 	static Connection con=null;
-	static final String url="jdbc:mysql://localhost:3306/collegedata";
+	static final String url="jdbc:mysql://192.168.1.100:3306/collegedata?useSSL=false&allowPublicKeyRetrieval=true";
 	static final String uname="root";
 	static final String password="";
 	
