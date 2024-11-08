@@ -34,9 +34,9 @@ import java.awt.Cursor;
 
 /*
  * Title : ChatMainPanel.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : Main chat frame 
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 @SuppressWarnings("serial")
 public class ChatMainPanel extends JPanel {

@@ -41,9 +41,9 @@ import net.proteanit.sql.DbUtils;
 
 /*
  * Title : SearchPanel.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : For searching student of faculty
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 
 

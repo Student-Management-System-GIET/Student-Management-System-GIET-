@@ -30,9 +30,9 @@ import net.proteanit.sql.DbUtils;
 
 /*
  * Title : AddSubjectDialog.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : For adding new subject to cource
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 
 @SuppressWarnings("serial")

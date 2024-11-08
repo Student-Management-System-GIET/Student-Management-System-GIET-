@@ -23,9 +23,9 @@ import javax.swing.border.EmptyBorder;
 
 /*
  * Title : CourcePanel.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : Displaying all the cources table using this file
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 @SuppressWarnings("serial")
 public class CourcePanel extends JPanel implements ActionListener {

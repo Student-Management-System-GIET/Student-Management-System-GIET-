@@ -56,9 +56,9 @@ import collegeapplication.student.StudentData;
 
 /*
  * Title : SubChatPanel.java ** Part of chat panel
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : All the messages which user sending and receiving are handling here 
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 @SuppressWarnings("serial")
 public class SubChatPanel extends JPanel implements ActionListener,Runnable {

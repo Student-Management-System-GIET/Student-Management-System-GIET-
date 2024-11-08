@@ -4,9 +4,9 @@ import collegeapplication.subject.Subject;
 
 /*
  * Title : UserData.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : For binding all the data related to attandance
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 public class Attandance extends Subject
 {

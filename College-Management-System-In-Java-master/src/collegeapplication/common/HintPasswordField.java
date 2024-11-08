@@ -17,9 +17,9 @@ import javax.swing.text.Document;
 
 /*
  * Title : HintPasswordField.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : For giving hint to user in password field
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 
 @SuppressWarnings("serial")

@@ -83,7 +83,7 @@ My name is [Ajaysinh Rathod](https://github.com/Ajaysinh1290). I'm studying Info
 
 
 
-Email : ajaysinhrathod1290@gmail.com
+ECreated by : GIET@GMAIL.com
 
 # Social Media Accounts
 [![Instagram](https://img.icons8.com/fluent/40/000000/instagram-new.png)](https://www.instagram.com/ll_ajayrathod_ll/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;

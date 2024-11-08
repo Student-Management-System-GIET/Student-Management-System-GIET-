@@ -10,10 +10,10 @@ import javax.swing.JScrollPane;
 
 /*
  * Title : ScrollPaneUtil.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : To set scroll bar at bottom 
  * Reference : https://stackoverflow.com/ 
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 
 

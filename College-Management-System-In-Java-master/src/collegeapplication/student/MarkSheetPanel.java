@@ -33,9 +33,9 @@ import collegeapplication.faculty.FacultyMain;
 
 /*
  * Title : MarkSheetPanel.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : For displaying student marksheet
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 @SuppressWarnings("serial")
 public class MarkSheetPanel extends JPanel {

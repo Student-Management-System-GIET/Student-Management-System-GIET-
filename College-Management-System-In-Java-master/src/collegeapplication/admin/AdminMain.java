@@ -53,9 +53,9 @@ import collegeapplication.subject.SubjectPanel;
 
 /*
  * Title : AdminMain.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : Main admin frame
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 @SuppressWarnings("serial")
 public class AdminMain extends JFrame  implements ActionListener

@@ -50,9 +50,9 @@ import collegeapplication.subject.SubjectPanel;
 
 /*
  * Title : StudentMain.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : Student Main Frame
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 
 @SuppressWarnings("serial")

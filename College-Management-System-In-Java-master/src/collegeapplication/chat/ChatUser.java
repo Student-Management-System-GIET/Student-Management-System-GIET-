@@ -6,9 +6,9 @@ import java.util.Date;
 
 /*
  * Title : ChatUser.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : Binding all the data about chat
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 public class ChatUser implements Serializable
 {

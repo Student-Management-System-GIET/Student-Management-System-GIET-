@@ -19,9 +19,9 @@ import collegeapplication.subject.SubjectData;
 
 /*
  * Title : StudentData.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : Handling all the data related to student
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 
 public class StudentData 

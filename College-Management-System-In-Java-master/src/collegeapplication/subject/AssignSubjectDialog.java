@@ -28,9 +28,9 @@ import collegeapplication.faculty.ViewFacultyPanel;
 
 /*
  * Title : AssignSubjectDialog.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : For assigning subject to faculty
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 @SuppressWarnings("serial")
 public class AssignSubjectDialog extends JDialog implements ActionListener {

@@ -19,11 +19,11 @@ import java.awt.Cursor;
 
 /*
  * Title : ChatPanel.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : Chat Panel top bar and subsubchatpanel
  * 			 Top bar : Display User name at top bar and handle the sub chat panel
  * 		   	 Sub chat panel : All the messages which user sending and receiving are display here
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 @SuppressWarnings("serial")
 public class ChatPanel extends JPanel

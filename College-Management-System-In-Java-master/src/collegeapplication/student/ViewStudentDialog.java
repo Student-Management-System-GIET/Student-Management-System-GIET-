@@ -23,9 +23,9 @@ import javax.swing.JComponent;
 
 /*
  * Title : ViewStudentDialog.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : Selecting student for finding more details
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 
 @SuppressWarnings("serial")

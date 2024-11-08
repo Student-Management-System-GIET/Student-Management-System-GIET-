@@ -53,9 +53,9 @@ import collegeapplication.subject.AssignSubjectPanel;
 import collegeapplication.subject.SubjectPanel;
 /*
  * Title : FacultyMain.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : Main faculty frame
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 @SuppressWarnings("serial")
 public class FacultyMain extends JFrame  implements ActionListener

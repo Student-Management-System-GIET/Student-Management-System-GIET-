@@ -4,9 +4,9 @@ import java.awt.Image;
 
 /*
  * Title : Group.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : To binding all the data related to group
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 class Group
 {

@@ -37,9 +37,9 @@ import collegeapplication.subject.SubjectData;
 
 /*
  * Title : AttandanceReportPanel.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : For displaying student attandance according to class/subject/student wice
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 
 public class AttandanceReportPanel extends JPanel implements ActionListener {

@@ -23,9 +23,9 @@ import collegeapplication.subject.AssignSubjectDialog;
 
 /*
  * Title : ViewFacultyPanel.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : Displaying all the details of  faculty
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 
 @SuppressWarnings("serial")

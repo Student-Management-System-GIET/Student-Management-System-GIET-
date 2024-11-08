@@ -10,9 +10,9 @@ import collegeapplication.common.DataBaseConnection;
 
 /*
  * Title : RollNumberData.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : Handling all the data related to rollnumber
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 
 public class RollNumberData

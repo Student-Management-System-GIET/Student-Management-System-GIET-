@@ -22,9 +22,9 @@ import javax.swing.border.LineBorder;
 
 /*
  * Title : AdminProfilePanel.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : All the data related to admin displaying using this panel
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 
 @SuppressWarnings("serial")

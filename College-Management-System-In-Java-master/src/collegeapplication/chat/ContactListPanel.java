@@ -38,9 +38,9 @@ import collegeapplication.student.StudentMain;
 @SuppressWarnings("serial")
 /*
  * Title : ContactListPanel.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : To display all the contacts of the given user
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 public class ContactListPanel extends JPanel implements ActionListener {
 

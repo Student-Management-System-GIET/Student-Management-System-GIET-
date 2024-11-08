@@ -30,9 +30,9 @@ import javax.swing.border.LineBorder;
 
 /*
  * Title : EditAdminDetailsDialog.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : With the help of this file admin can edit collage details
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 
 @SuppressWarnings("serial")

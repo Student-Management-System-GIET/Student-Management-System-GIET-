@@ -21,9 +21,9 @@ import collegeapplication.student.Student;
 
 /*
  * Title : ChatInfoPanel.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : To display user details at right side of panel
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 @SuppressWarnings("serial")
 public class ChatInfoPanel extends JPanel {

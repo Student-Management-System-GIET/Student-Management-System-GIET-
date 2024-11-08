@@ -12,9 +12,9 @@ import collegeapplication.common.ImageUtil;
 
 /*
  * Title : Admin.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : To bind all data of admin
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 
 public class Admin

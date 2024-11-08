@@ -37,9 +37,9 @@ import collegeapplication.admin.AdminMain;
 
 /*
  * Title : AddFacultyDialog.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : For adding new faculty 
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 
 @SuppressWarnings("serial")

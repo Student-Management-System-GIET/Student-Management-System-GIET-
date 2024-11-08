@@ -21,9 +21,9 @@ import javax.swing.DefaultComboBoxModel;
 
 /*
  * Title : AddCourceDialog.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : Dialog for adding new cource
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 
 @SuppressWarnings("serial")

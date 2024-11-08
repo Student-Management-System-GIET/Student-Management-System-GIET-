@@ -29,9 +29,9 @@ import collegeapplication.common.DataBaseConnection;
 
 /*
  * Title : LoginPageFrame.java
- * Created by : Ajaysinh Rathod
+ * Created by : GIET Student
  * Purpose : Main login frame
- * Mail : ajaysinhrathod1290@gmail.com
+ * Created by : GIET@GMAIL.com
  */
 @SuppressWarnings("serial")
 public class LoginPageFrame extends JFrame implements ActionListener 
