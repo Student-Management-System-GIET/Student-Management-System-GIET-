@@ -1,4 +1,5 @@
 package collegeapplication.login;
+import collegeapplication.common.DataBaseConnection; 
 
 import java.awt.Color;
 import java.awt.EventQueue;
@@ -60,15 +61,13 @@ public class LoginPageFrame extends JFrame implements ActionListener
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
-					if(DataBaseConnection.checkconnection())
-					{
-					LoginPageFrame frame = new LoginPageFrame();
-					frame.setVisible(true);
-					frame.setLocation(-7, 0);
-					}
-					else
-					{
-						JOptionPane.showMessageDialog(null, "Start the Database Server first","Error",JOptionPane.ERROR_MESSAGE);
+					// Correct method call for static method
+					if (DataBaseConnection.checkconnection()) {
+						LoginPageFrame frame = new LoginPageFrame();
+						frame.setVisible(true);
+						frame.setLocation(-7, 0);
+					} else {
+						JOptionPane.showMessageDialog(null, "Start the Database Server first", "Error", JOptionPane.ERROR_MESSAGE);
 					}
 				} catch (Exception e) {
 					e.printStackTrace();
